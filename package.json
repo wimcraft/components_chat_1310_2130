@@ -1,0 +1,26 @@
+{
+  "name": "training_chat",
+  "version": "1.0.0",
+  "description": "Training chat",
+  "main": ".eslintrc.js",
+  "dependencies": {
+    "eslint-config-google": "^0.9.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.12.1"
+  },
+  "scripts": {
+    "lint": "./node_modules/.bin/eslint.cmd component/**/*.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rfist/components_chat_1310_2130.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rfist/components_chat_1310_2130/issues"
+  },
+  "homepage": "https://github.com/rfist/components_chat_1310_2130#readme"
+}
