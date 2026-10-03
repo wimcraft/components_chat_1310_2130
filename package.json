@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rfist/components_chat_1310_2130.git"
+    "url": "git+https://github.com/wimcraft/components_chat_1310_2130.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rfist/components_chat_1310_2130/issues"
+    "url": "https://github.com/wimcraft/components_chat_1310_2130/issues"
   },
-  "homepage": "https://github.com/rfist/components_chat_1310_2130#readme"
+  "homepage": "https://github.com/wimcraft/components_chat_1310_2130#readme"
 }
